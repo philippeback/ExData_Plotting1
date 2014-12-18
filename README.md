@@ -1,3 +1,36 @@
+# Project 1
+
+## How to use
+
+There is one file for each required plot.
+
+Each file sources ```get-data.R``` and ```load-data.R```.
+
+* get-data.R downloads and unzips the data from the original source.
+* load-data.R filters the data in order to work with the required dataset.
+
+So, no need to copy and paste the same code several times.
+
+## Requisites
+Running the scripts requires the ```lubridate``` package to be installed.
+
+Make sure you do a
+
+    install.packages("lubridate")
+    
+to have it available.
+
+I found it clearer to work with lubridate's conversion functions than to mess with paste and strptime.
+
+## Notes
+
+There is a thread on the forums about the pictures on the assignment page being 504x504 and the instructions asking for 480x480.
+
+We chose to go for 480x480 as per the discussion on that thread.
+
+
+# Original Instructions
+
 ## Introduction
 
 This assignment uses data from
