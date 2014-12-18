@@ -24,9 +24,29 @@ I found it clearer to work with lubridate's conversion functions than to mess wi
 
 ## Notes
 
+### Picture Size
 There is a thread on the forums about the pictures on the assignment page being 504x504 and the instructions asking for 480x480.
 
 We chose to go for 480x480 as per the discussion on that thread.
+
+### Transparent Background
+The reference pictures have a transparent background.
+So, we set the background as transparent as well.
+
+## Results
+
+###Plot 1
+![plot1](Plot1.png) 
+
+###Plot 2
+![plot2](Plot2.png) 
+
+###Plot 3
+![plot3](Plot3.png) 
+
+###Plot 4
+![plot4](Plot4.png) 
+
 
 
 # Original Instructions
